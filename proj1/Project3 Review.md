@@ -1,6 +1,6 @@
 # Project 3: [MyDollarBot](https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo) Review
 
-Self Assessment Total Score: {your self assessment score}/{whatever our total is}
+Self Assessment Total Score: 164/243
 
 | Item                                                                                                                                                    | Self-Assessment | Evidence                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
