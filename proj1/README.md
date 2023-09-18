@@ -278,8 +278,10 @@ Self Assessment Total Score: 121/243
 
 ## Project 5
 
-# Reflecting on the Challenges and Lessons from Project1 
-## What was difficult 
+# Reflecting on the Challenges and Lessons from Project1
+
+## What was difficult
+
 During this project, we faced a lot of challenges attempting to compile the projects and getting them to run without error. This mainly revolved around the absence of proper documentation, a lack of knowledge of outdated technologies, and outdated/missing dependencies. Although we were able to overcome these challenges and get most of the projects functioning, we noted several issues and best practices for future development.
 
 The absence of clear documentation essentially meant starting our team several steps behind. Instead of moving forward, a significant portion of time was dedicated to understanding the existing structure and functionality. With limited guiding notes or documents, figuring out the original developer's intentions was difficult on some of the projects. Trying to determine the purpose behind specific coding choices, features, or system architectures without clear documentation was one of the reasons why our team had difficulty running projects successfully as intended. In the cases where there was documentation, there was always a missing element. For example, in one case, only the functions from one file were documented in the external docs, leaving the entire rest of the codebase for us to decipher.
@@ -287,20 +289,23 @@ The absence of clear documentation essentially meant starting our team several s
 Additionally technologies, tools, and frameworks evolve rapidly as we noted when going back into old Github repositories for our projects. What was considered cutting-edge a few years ago can quickly become outdated as we saw. The interfaces, syntax, or even the underlying logic differed significantly from contemporary tools, leading to confusions and errors. We then had to spend additional time looking through dated guides or discontinued forums for little to no help. For example, we had to deal with old versions of python and weird config files for style checking and such.
 
 ## How it could have been avoided
-One of the most effective ways to avoid many of the challenges faced during Project1 would have been thorough initial assessment and preparation. Before diving into running the program, understanding the project's dependencies, required libraries, and system prerequisites would have been crucial. This foundational research would have offered early warning signs of potential compatibility issues. For older projects, it might have been beneficial to look at the last documented system environments or setups where they ran successfully. One way would be to create a virtual environment similar or by ensuring that necessary adaptations were made, a smoother transition to current systems could have been achieved. This would have allowed us to prevent unnecessary headaches and save time attempting to run the programs.  
+
+One of the most effective ways to avoid many of the challenges faced during Project1 would have been thorough initial assessment and preparation. Before diving into running the program, understanding the project's dependencies, required libraries, and system prerequisites would have been crucial. This foundational research would have offered early warning signs of potential compatibility issues. For older projects, it might have been beneficial to look at the last documented system environments or setups where they ran successfully. One way would be to create a virtual environment similar or by ensuring that necessary adaptations were made, a smoother transition to current systems could have been achieved. This would have allowed us to prevent unnecessary headaches and save time attempting to run the programs.
 
 ## Best Practices for Project 2
+
 ### Pre- Implementation Screening
+
 Before initiating any coding or implementation in Project2, a thorough review will be conducted by us. This will encompass an analysis of the project's dependencies, libraries, and system requirements, ensuring they are compatible with current standards and environments. We could also keep track of version numbers for each library, dependency, and/or module we use.
 
 ### Breaking down the code
+
 Breaking the project down into smaller, more manageable modules or components will be a priority when we implement code within our project. As each module is developed, it will be tested in isolation and then integrated with the larger system. This modular approach will help us in identifying issues early on, ensuring that problems don't compound as the project progresses. The modular approach will also help ensure the documentation for our code is thorough and detailed at each step of the way.
 
-### Proper Documentation 
+### Proper Documentation
+
 Every step, change, or decision made during the development process will be documented thoroughly on our Github since we noted it was difficult to understand the project code without good documentation. Utilizing version control systems like Git will ensure that any of our modifications can be tracked, and if needed, rolled back within our team. This practice will provide a safety net, ensuring that any errors or issues can be quickly identified and corrected. We will also provide extensive external documentation for future developers and current users to inform them how to install, run, edit, and even how to fix common errors and problems.
 
 ### Installation Instructions and Project Management
+
 One final thing we will consider is to provide detailed instructions on how to install and run the project - including how to get the right versions for our tools and libraries. This is key because some projects we tried to install had very barebones installation instructions and following them was quite difficult as we had to decipher what to do when an error occurred. Furthermore, we will also have detailed project management instructions for future developers, including how to make issues, PRs, and even an overview of how our project is set up so they can find what they need quickly.
-
-
-
