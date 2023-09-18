@@ -1,6 +1,6 @@
 # Project Scores
 
-Project 1 Score:&#x20;
+Project 1 Score: 161/243
 
 Project 2 Score: 155/243
 
@@ -8,7 +8,7 @@ Project 3 Score: 164/243
 
 Project 4 Score: 121/243
 
-Project 5 Score:&#x20;
+Project 5 Score: 176/243
 
 ## Project 1
 
