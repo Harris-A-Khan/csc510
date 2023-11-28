@@ -1,7 +1,5 @@
 # SCORECARD
 
-## Project MyDollarBot-BOTGo Review
-
 
 # LINK TO VIDEO
 
