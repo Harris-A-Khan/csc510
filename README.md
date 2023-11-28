@@ -12,7 +12,7 @@ Self Assessment Total Score: 210/243
 | Issues reports: there are **many**                                                       |         3        |               Issues tab in GitHub                                                             |
 | Issues are being closed                                                                  |         3       |                     Issues tab in Github                                         |
 | DOI badge: exists                                                                        |        3         |              Github Repo                                                        |
-| Docs: doco generated, format not ugly                                                    |       3          |                                                                      |
+| Docs: doco generated, format not ugly                                                    |       3          |    docs                                                                  |
 | Docs: what: point descriptions of each class/function (in isolation)                     |        3         |          docs                                                                  |
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z |        3         |         docs                                                 |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing  |      3         |      docs                                                                      | 
